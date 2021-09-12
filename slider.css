@@ -10,6 +10,7 @@
 @media (min-width: 0px) {
   .flex-container {
     max-width: 540px;
+    margin-top: 50%;
   }
   #wormhole img{
     content: url("wormhole1.jpeg")
@@ -18,6 +19,7 @@
 @media (min-width: 540px) {
   .flex-container {
     max-width: 540px;
+    margin-top: 30%;
   }
   #wormhole img{
     content: url("wormhole1.jpeg")
@@ -196,7 +198,7 @@
 
 .slider-control .next {
     border: none;
-    background: black;
+    background: white;
   
 }
 
